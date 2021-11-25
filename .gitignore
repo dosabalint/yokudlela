@@ -23,3 +23,5 @@
 hs_err_pid*
 /hu.yokudlela.table/hu.yokudlela.table-datamodel/target/
 /hu.yokudlela.table/hu.yokudlela.table-spring/target/
+/table/table-spring/target/
+.idea
